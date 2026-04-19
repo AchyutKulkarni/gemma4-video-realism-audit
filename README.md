@@ -1,6 +1,6 @@
-# CineRank AI
+# Gemma4 video realism audit
 
-CineRank AI is a Gemma 4 multimodal demo for evaluating how realistic AI-generated videos look.
+This is a Gemma 4 multimodal demo for evaluating how realistic AI-generated videos look.
 
 The competition-ready artifact in this repository is [notebooks/gemma4_transformers_demo.ipynb](notebooks/gemma4_transformers_demo.ipynb). It compares two AI-generated videos, samples representative frames, asks Gemma 4 to identify visible synthesis artifacts, aggregates multiple judge passes with consensus voting, and ranks the videos by realism.
 
